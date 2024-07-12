@@ -1,5 +1,7 @@
 .app--container {
   font-family: 'Inter';
+  max-width: 550px;
+  max-height: 704px;
 }
 
 .header--container {
@@ -10,6 +12,7 @@
   display:flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 45px;
 }
 
 .header--container > h1 {
@@ -21,4 +24,59 @@
 .globe--icon {
   height:24px;
   margin:4px
+}
+
+.card--container {
+  display:flex;
+  margin-bottom: 36px;
+  margin-left: 40px;
+  font-family: 'Inter';
+}
+
+.card--main--picture{
+  height:168px;
+  width:125px;
+  border-radius: 5px;
+  margin-right: 19px;
+}
+
+.card--location {
+  display: flex;
+}
+
+.card--location > *{
+  font-size: 10.24px;
+  font-weight: 400;
+}
+
+.card--details {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card--details > h2 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.card--details > h4 {
+  font-size: 10.24px;
+  font-weight: 700;
+}
+
+.card--details > p {
+  font-size: 10.24px;
+  font-weight: 400;
+}
+
+.card--pin {
+  width:7px;
+  height: 9.55px;
+  margin-right: 1px;
+}
+
+.card--map--link {
+  color: #918E9B;
+  margin-left: 12px;
 }
