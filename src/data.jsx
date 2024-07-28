@@ -15,7 +15,7 @@ export default [
         startDate: "1 Jan, 2023",
         endDate: "10 Jan, 2023",
         description: "Big Sur, located along California's central coast, is famed for its dramatic cliffs, rugged coastline, and breathtaking ocean views along the scenic Pacific Coast Highway. This picturesque region offers a blend of natural beauty and outdoor recreation, including hiking trails through redwood forests and picturesque beaches.",
-        imageUrl: "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-6/324029656_463719359308907_3233639053632883325_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=fZ5sApTAUDMQ7kNvgHHcIYi&_nc_ht=scontent-lax3-1.xx&oh=00_AYD9-I-11vJqcwlVemYjxis2_vjgzmwHc9zRdAaXJyRx0A&oe=66976E46",
+        imageUrl: "https://scontent-lax3-2.xx.fbcdn.net/v/t39.30808-6/298880992_10160210648132354_7800180619519864244_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=gOIzEs05pekQ7kNvgEuuEQx&_nc_ht=scontent-lax3-2.xx&oh=00_AYDCxktTi2H_OCn7cKtn3I-RmGL6GNmLQcK210bV224uwA&oe=66AB7146",
     },
     {
         title: "Mt. Cook National Park",
